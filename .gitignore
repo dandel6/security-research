@@ -1,0 +1,17 @@
+# Foundry build output
+cache/
+out/
+broadcast/
+
+# lib/ is deliberately not ignored. Each entry pins its dependencies as
+# submodules so a reproduction that passed once keeps passing.
+
+# Env
+.env
+.env.*
+!.env.example
+
+# Editors and OS
+.DS_Store
+.idea/
+.vscode/
