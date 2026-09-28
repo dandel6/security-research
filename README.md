@@ -43,7 +43,7 @@ Every project pins `solc_version` and `evm_version` in its own `foundry.toml` in
 
 ## About
 
-Independent researcher, based in Korea. Before this I built [Perp DEX](https://github.com/dandel6/dex), a hybrid perpetual futures exchange: Rust matching engine off-chain, Solidity settlement on Arbitrum Sepolia, EIP-712 verification and margin re-checks written by hand with no OpenZeppelin underneath. Spending a year on contracts that hold collateral is what got me interested in breaking them.
+Independent researcher, based in Korea. Before this I built [Perp DEX](https://github.com/dandel6/dex), a hybrid perpetual futures exchange: Rust matching engine off-chain, Solidity settlement on Arbitrum Sepolia, EIP-712 verification and margin re-checks built with no OpenZeppelin underneath. Spending a year on contracts that hold collateral is what got me interested in breaking them.
 
 Working through the smart contract security literature now. If you want another reader on something before it goes to audit, or you think an entry here is wrong, email me.
 
